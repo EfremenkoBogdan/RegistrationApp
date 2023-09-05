@@ -1,0 +1,2 @@
+Program for user registration, it is possible to switch between the Registration and Authentication Windows.
+Communication with the mySQL database, created by using JavaFX and SceneBuilder.
